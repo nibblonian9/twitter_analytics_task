@@ -55,6 +55,6 @@ After you have completed the task, you can email us the Jupyter notebooks (train
 If you have time, you can try build a dashboard with all analytics that you have done in the task. 
 
 
-Please reach out to balaji@stacknexus.io & leelakumar.guduru@stacknexus.io, if you have any question related to the task. 
+Please reach out to balaji@stacknexus.io & tyler.harris@stacknexus.io, if you have any question related to the task. 
 
 Good luck! :)
