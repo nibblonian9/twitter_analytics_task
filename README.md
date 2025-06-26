@@ -46,7 +46,7 @@ You can extract the topic through python based keyword extractors such as yake (
 
 ## Deliverables
 
-You can take upto 1 week from the time you receive this task. 
+You can take upto 4 days from the time you receive this task. 
 
 After you have completed the task, you can email us the Jupyter notebooks (training and analysis) and we will have a disucssion over the notebooks during the final round of interview. 
 
@@ -55,6 +55,6 @@ After you have completed the task, you can email us the Jupyter notebooks (train
 If you have time, you can try build a dashboard with all analytics that you have done in the task. 
 
 
-Please reach out to balaji@stacknexus.io & tyler.harris@stacknexus.io, if you have any question related to the task. 
+Please reach out to balaji@stacknexus.io, if you have any question related to the task. 
 
 Good luck! :)
